@@ -1,2 +1,2 @@
-# create-react-app-default
-Default React app build using yarn create react-app --template typescript, with EditorConfig, ESLint and Prettier
+# react-app-starter
+Default React app starter, built using yarn create react-app --template typescript, and with EditorConfig, ESLint and Prettier
